@@ -4,6 +4,8 @@ please edit rows 20 and 21 in Program.cs if different directory / filename neede
 currently set to 
 C:\BnppTest\PortfolioPayments.csv
 
+Application is console app written in .NET Core 3.1
+
 Assumptions
 -----------
 output is from json as specified and does not include PortfolioId
