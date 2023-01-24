@@ -1,4 +1,4 @@
-Setup new
+Setup newer
 -----
 please edit rows 20 and 21 in Program.cs if different directory / filename needed
 currently set to 
